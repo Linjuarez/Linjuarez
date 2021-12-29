@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Linjuarez
 - 👀 I’m interested in Listening/Playing Music ,playing games ,and programming
-- 🌱 I’m currently learning python and C programming
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me gmail acc rollinjuarez@gmail.com 
 
 <!---
